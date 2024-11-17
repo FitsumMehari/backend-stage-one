@@ -2,9 +2,14 @@
 
 **Description:**
 A small api that has three routes: 
-- name
-- hobby
-- dream
+- ```bash
+    /name
+
+- ```bash
+    /dream
+
+- ```bash
+    /hobby
 
 **Getting Started**
 1. **Clone the repository:**
