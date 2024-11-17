@@ -16,10 +16,14 @@ A small api that has three routes:
    ```bash
    git clone https://github.com/FitsumMehari/backend-stage-one
 
-2. **Add the dependecies:**
+2. **Change the directory:**
+    ```bash
+    cd backend-stage-one
+
+3. **Add the dependecies:**
     ```bash
     npm install
 
-3. **Start the server:**
+4. **Start the server:**
     ```bash
     node index.js
