@@ -1,6 +1,6 @@
 # backend-stage-one
 
-**Description**
+**Description:**
 A small api that has three routes: 
 - name
 - hobby
