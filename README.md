@@ -14,7 +14,7 @@ A small api that has three routes:
 **Getting Started**
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/FitsumMehari/backend-stage-one]
+   git clone https://github.com/FitsumMehari/backend-stage-one
 
 2. **Add the dependecies:**
     ```bash
